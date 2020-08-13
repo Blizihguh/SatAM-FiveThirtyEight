@@ -1,1 +1,3 @@
 # SatAM-FiveThirtyEight
+
+A userscript to replace FiveThirtyEight's new mascot with a familiar friend...
